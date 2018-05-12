@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyCalc</string>
+    <string name="textButtonNull">0</string>
+    <string name="textButtonOne">1</string>
+    <string name="textButtonTwo">2</string>
+    <string name="textButtonThree">3</string>
+    <string name="textButtonFour">4</string>
+    <string name="textButtonFive">5</string>
+    <string name="textButtonSix">6</string>
+    <string name="textButtonSeven">7</string>
+    <string name="textButtonEight">8</string>
+    <string name="textButtonNine">9</string>
+    <string name="textButtonDoubleNull">00</string>
+    <string name="textButtonDot">.</string>
+    <string name="textButtonEqually">=</string>
+    <string name="textButtonPlus">+</string>
+    <string name="textButtonMinus">-</string>
+    <string name="textButtonMultiply">*</string>
+    <string name="textButtonDivide">/</string>
+    <string name="textButtonCorrect"><![CDATA[<-]]></string>
+    <string name="textButtonClear">C</string>
+    <string name="hintNull">0</string>
+</resources>
